@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Bayon';
+  font-weight: 400;
+  font-style: normal;
+  src: url(@/assets/fonts/Bayon/Regular.ttf) format('truetype');
+}
+:root {
+    @apply font-roboto
+}
