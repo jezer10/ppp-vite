@@ -8,6 +8,7 @@
   font-style: normal;
   src: url(@/assets/fonts/Bayon/Regular.ttf) format('truetype');
 }
+
 :root {
-    @apply font-roboto
+  @apply font-normal;
 }
